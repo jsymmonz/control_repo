@@ -1,5 +1,5 @@
 node default {
 }
-node 'puppet.jeff' {
+node 'masterpuppet.vm' {
   include role::master_server
 }
